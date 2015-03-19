@@ -1,3 +1,6 @@
 [submodule "jsPsych"]
 	path = jsPsych
 	url = git@github.com:mshvartsman/jsPsych.git
+[submodule "psiTurk"]
+	path = psiTurk
+	url = https://github.com/NYUCCL/psiTurk
